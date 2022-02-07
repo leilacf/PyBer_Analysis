@@ -4,6 +4,7 @@ In this project, working under the guide of the ride sharing app, PyBer, we util
 
 ## Results
 Based off of the analysis, the data showed that were major differences in the use of ride sharing depending on the city type. 
+
 ![This is an image](https://github.com/leilacf/PyBer_Analysis/blob/main/PyBer%20summary%20Data%20Frame.png)
 
 As can be seen in the image above, the largest amount of total rides occured in urban cities (1,625), which also had the most drivers (2,405) and highest total fares ($39,854.38). In comparison with the rural cities which had the smallest amount of total rides (125), with (78) drivers and total fares of ($4,327.93). Due to an underwhelming supply of drivers in rural cities and a rising demand, average fares per ride were highest in rural cities ($34.62) when compared to suburban and urban. This same logic can follow the average fare per driver, where rural cities remain with the highest amount at ($55.49).
